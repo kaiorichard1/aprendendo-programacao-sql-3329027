@@ -20,7 +20,6 @@
   "window.zoomLevel": 3,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
-  "sqlite.sqlite3": ".sequelizerc",
   "workbench.statusBar.visible": true
 }
 
